@@ -1,0 +1,1 @@
+The source for all the icons used in this project.
