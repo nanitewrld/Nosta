@@ -1,19 +1,65 @@
 <h1 style="display: inline;">
     <img src="https://github.com/nanitewrld/Nosta/blob/main/Images/RobloxL15.png?raw=true" alt="L15 Icon" width="32" style="vertical-align: middle;" /> 
-  Nosta - The classic Roblox experience!
+    Nosta - The Classic Roblox Experience
 </h1>
 
-> [!CAUTION]
-> I am not responsible for how this software is misused, including unauthorized copying, changes, or using it for harmful purposes like logging tokens.
-----
-> [!IMPORTANT]
-> Please note that the old CoreGui is not present in this client until this can be legitimately done.
-----
-## Information
-Nosta is built to provide a smooth & fast user experience on almost any Windows device. We ensure optimal performance and make Windows our exclusive supported operating system.
+---
 
-## Privacy
-We want to assure you that we do not collect any diagnostic or telemetry data of any kind. Our commitment to your privacy and data security is our top priority, and we believe in maintaining transparency about our practices. Rest assured, your information remains entirely confidential, and we are dedicated to providing a seamless experience without compromising your trust.
+> [!CAUTION]  
+> **Disclaimer:**  
+> I am not responsible for any misuse of this software, including unauthorized copying, modifications, or harmful actions such as token logging.
 
-## Credits
-- NaniteWRLD, Founder
+---
+
+> [!IMPORTANT]  
+> **CoreGui Notice:**  
+> The old CoreGui is not available in this client until it can be implemented through legitimate means.
+
+---
+
+## 📜 Information
+
+**Nosta** is a third-party bootstrapper designed to bring back the classic Roblox experience. With its smooth, fast, and optimized user interface, built exclusively for Windows devices to ensure a nostalgic yet modern gameplay environment.
+
+---
+
+## 🔒 Privacy
+
+> [!NOTE]  
+> **Your privacy is our top priority.**  
+> - **No Data Collection**: We do not collect telemetry, diagnostic, or usage data.  
+> - **Full Transparency**: Your information remains entirely confidential and secure.  
+> - **Integrity First**: Nosta is crafted with trustworthiness in mind, prioritizing user safety above all.
+
+---
+
+## ⚙️ Installation
+
+1. Visit the [Releases](https://github.com/nanitewrld/Nosta/releases) page to download the latest version of Nosta.  
+2. Extract the downloaded ZIP file into a folder of your choice.  
+3. Run `Nosta.exe` to launch the application.  
+4. Relive the classic Roblox experience!  
+
+> [!TIP]  
+> For optimal performance, make sure your Windows system is up-to-date and meets the minimum system requirements.
+
+---
+
+## ✨ Features
+
+**Why choose Nosta?**  
+- **🚀 Performance**: Designed to run smoothly on almost any Windows device.  
+- **🎨 Simplicity**: User-friendly and faithful to the classic Roblox look and feel.  
+- **📦 Lightweight**: Small footprint with no unnecessary features or bloatware.  
+
+---
+
+## 🙌 Credits
+
+- **NaniteWRLD** - Founder and creator of Nosta.  
+
+---
+
+## 💡 Support
+
+If you encounter any issues or have questions, feel free to check the [Discussions](https://github.com/nanitewrld/Nosta/discussions) section or create a new issue on the [Issues](https://github.com/nanitewrld/Nosta/issues) page.  
