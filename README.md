@@ -62,4 +62,4 @@
 
 ## 💡 Support
 
-If you encounter any issues or have questions, feel free to check the [Discussions](https://github.com/nanitewrld/Nosta/discussions) section or create a new issue on the [Issues](https://github.com/nanitewrld/Nosta/issues) page.  
+If you encounter any issues or have questions, feel free to create a new issue on the [Issues](https://github.com/nanitewrld/Nosta/issues) page.  
